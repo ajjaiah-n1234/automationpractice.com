@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="PTW-IT-MAC-025-2015s-iMac.local" name="com.testcases.TS_UIFunctionality" tests="1" failures="0" timestamp="18 Apr 2016 07:12:26 GMT" time="122.447" errors="0">
+  <testcase name="uiFunctionality" time="110.87" classname="com.testcases.TS_UIFunctionality"/>
+</testsuite>

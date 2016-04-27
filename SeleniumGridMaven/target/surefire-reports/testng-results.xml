@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="124142" started-at="2016-04-18T12:40:23Z" finished-at="2016-04-18T12:42:27Z">
+    <groups>
+    </groups>
+    <test name="UI Functionality on Firefox on node 4" duration-ms="122447" started-at="2016-04-18T12:40:23Z" finished-at="2016-04-18T12:42:26Z">
+      <class name="com.testcases.TS_UIFunctionality">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String)" name="initialize" is-config="true" duration-ms="11461" started-at="2016-04-18T12:40:23Z" finished-at="2016-04-18T12:40:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://192.168.1.12:5566/wd/hub]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="uiFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="uiFunctionality" duration-ms="110870" started-at="2016-04-18T12:40:35Z" finished-at="2016-04-18T12:42:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[praveenptw@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iseva123]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="108" started-at="2016-04-18T12:42:26Z" finished-at="2016-04-18T12:42:26Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="UI Functionality  on Chrome on node 4" duration-ms="124142" started-at="2016-04-18T12:40:23Z" finished-at="2016-04-18T12:42:27Z">
+      <class name="com.testcases.TS_UIFunctionality">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String)" name="initialize" is-config="true" duration-ms="13026" started-at="2016-04-18T12:40:23Z" finished-at="2016-04-18T12:40:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://192.168.1.12:5566/wd/hub]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="uiFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="uiFunctionality" duration-ms="110982" started-at="2016-04-18T12:40:36Z" finished-at="2016-04-18T12:42:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ptwmobility@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iseva123]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="126" started-at="2016-04-18T12:42:27Z" finished-at="2016-04-18T12:42:27Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

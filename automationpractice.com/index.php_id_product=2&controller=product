@@ -1,0 +1,1045 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="en"><![endif]-->
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Blouse - My Store</title>
+		<meta name="description" content="Short sleeved blouse with feminine draped sleeve detail." />
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="img/favicon.ico?1456452069" />
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico?1456452069" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/global.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/autoload/responsive-tables.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/autoload/uniform.default.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/product.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/print.css" type="text/css" media="print" />
+			<link rel="stylesheet" href="modules/socialsharing/css/socialsharing.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockbanner/blockbanner.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockcontact/blockcontact.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/product_list.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocktags/blocktags.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/productcomments/productcomments.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="modules/sendtoafriend/sendtoafriend.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+		<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Close';
+var FancyboxI18nNext = 'Next';
+var FancyboxI18nPrev = 'Previous';
+var PS_CATALOG_MODE = false;
+var added_to_wishlist = 'Added to your wishlist.';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var allowBuyWhenOutOfStock = false;
+var attribute_anchor_separator = '-';
+var attributesCombinations = [{"id_attribute":"1","id_attribute_group":"1","attribute":"s","group":"size"},{"id_attribute":"2","id_attribute_group":"1","attribute":"m","group":"size"},{"id_attribute":"3","id_attribute_group":"1","attribute":"l","group":"size"},{"id_attribute":"11","id_attribute_group":"3","attribute":"black","group":"color"},{"id_attribute":"8","id_attribute_group":"3","attribute":"white","group":"color"}];
+var availableLaterValue = '';
+var availableNowValue = 'In stock';
+var baseDir = 'http://automationpractice.com/';
+var baseUri = 'http://automationpractice.com/index.php';
+var blocksearch_type = 'top';
+var combinationImages = {"12":[{"id_image":"5","id_product_attribute":"12","legend":""},{"id_image":"6","id_product_attribute":"12","legend":""}],"10":[{"id_image":"5","id_product_attribute":"10","legend":""},{"id_image":"6","id_product_attribute":"10","legend":""}],"8":[{"id_image":"5","id_product_attribute":"8","legend":""},{"id_image":"6","id_product_attribute":"8","legend":""}],"7":[{"id_image":"7","id_product_attribute":"7","legend":""}],"11":[{"id_image":"7","id_product_attribute":"11","legend":""}],"9":[{"id_image":"7","id_product_attribute":"9","legend":""}]};
+var combinations = {"7":{"attributes_values":{"1":"S","3":"Black"},"attributes":[1,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'1','11'"},"8":{"attributes_values":{"1":"S","3":"White"},"attributes":[1,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":277,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'1','8'"},"10":{"attributes_values":{"1":"M","3":"White"},"attributes":[2,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'2','8'"},"9":{"attributes_values":{"1":"M","3":"Black"},"attributes":[2,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":278,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'2','11'"},"12":{"attributes_values":{"1":"L","3":"White"},"attributes":[3,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":290,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'3','8'"},"11":{"attributes_values":{"1":"L","3":"Black"},"attributes":[3,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":291,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'3','11'"}};
+var combinationsFromController = {"7":{"attributes_values":{"1":"S","3":"Black"},"attributes":[1,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'1','11'"},"8":{"attributes_values":{"1":"S","3":"White"},"attributes":[1,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":277,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'1','8'"},"10":{"attributes_values":{"1":"M","3":"White"},"attributes":[2,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'2','8'"},"9":{"attributes_values":{"1":"M","3":"Black"},"attributes":[2,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":278,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'2','11'"},"12":{"attributes_values":{"1":"L","3":"White"},"attributes":[3,8],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":290,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":5,"list":"'3','8'"},"11":{"attributes_values":{"1":"L","3":"Black"},"attributes":[3,11],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":291,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":7,"list":"'3','11'"}};
+var confirm_report_message = 'Are you sure that you want to report this comment?';
+var contentOnly = false;
+var currencyBlank = 0;
+var currencyFormat = 1;
+var currencyRate = 1;
+var currencySign = '$';
+var currentDate = '2016-03-30 01:33:13';
+var customerGroupWithoutTax = true;
+var customizationFields = false;
+var customizationIdMessage = 'Customization #';
+var default_eco_tax = 0;
+var delete_txt = 'Delete';
+var displayDiscountPrice = false;
+var displayList = false;
+var displayPrice = 1;
+var doesntExist = 'This combination does not exist for this product. Please select another combination.';
+var doesntExistNoMore = 'This product is no longer in stock';
+var doesntExistNoMoreBut = 'with those attributes but is available with others.';
+var ecotaxTax_rate = 0;
+var fieldRequired = 'Please fill in all the required fields before saving your customization.';
+var freeProductTranslation = 'Free!';
+var freeShippingTranslation = 'Free shipping!';
+var generated_date = 1459315993;
+var group_reduction = 0;
+var idDefaultImage = 7;
+var id_lang = 1;
+var id_product = 2;
+var img_dir = 'http://automationpractice.com/themes/default-bootstrap/img/';
+var img_prod_dir = 'http://automationpractice.com/img/p/';
+var img_ps_dir = 'http://automationpractice.com/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 0;
+var jqZoomEnabled = false;
+var loggin_required = 'You must be logged in to manage your wishlist.';
+var maxQuantityToAllowDisplayOfLastQuantityMessage = 3;
+var minimalQuantity = 1;
+var moderation_active = true;
+var mywishlist_url = 'http://automationpractice.com/index.php_fc=module&module=blockwishlist&controller=mywishlist';
+var noTaxForThisProduct = true;
+var oosHookJsCodeFunctions = [];
+var page_name = 'product';
+var placeholder_blocknewsletter = 'Enter your e-mail';
+var priceDisplayMethod = 1;
+var priceDisplayPrecision = 2;
+var productAvailableForOrder = true;
+var productBasePriceTaxExcl = 26.999852;
+var productBasePriceTaxExcluded = 26.999852;
+var productHasAttributes = true;
+var productPrice = 27;
+var productPriceTaxExcluded = 26.999852;
+var productPriceWithoutReduction = 26.999852;
+var productReference = 'demo_2';
+var productShowPrice = true;
+var productUnitPriceRatio = 0;
+var product_fileButtonHtml = 'Choose File';
+var product_fileDefaultHtml = 'No file selected';
+var product_specific_price = [];
+var productcomment_added = 'Your comment has been added!';
+var productcomment_added_moderation = 'Your comment has been added and will be available once approved by a moderator';
+var productcomment_ok = 'OK';
+var productcomment_title = 'New comment';
+var productcomments_controller_url = 'http://automationpractice.com/index.php_fc=module&module=productcomments&controller=default';
+var productcomments_url_rewrite = false;
+var quantitiesDisplayAllowed = true;
+var quantityAvailable = 1136;
+var quickView = true;
+var reduction_percent = 0;
+var reduction_price = 0;
+var removingLinkText = 'remove this product from my cart';
+var roundMode = 2;
+var search_url = 'http://automationpractice.com/index.php_controller=search';
+var secure_key = '193d4dba9df40769a65215ad408132e5';
+var specific_currency = false;
+var specific_price = 0;
+var static_token = 'e817bb0705dd58da8db074c69f729fd8';
+var stf_msg_error = 'Your e-mail could not be sent. Please check the e-mail address and try again.';
+var stf_msg_required = 'You did not fill required fields';
+var stf_msg_success = 'Your e-mail has been sent successfully';
+var stf_msg_title = 'Send to a friend';
+var stf_secure_key = '77df707c3568534fd5a5c6e0750f6cd0';
+var stock_management = 1;
+var taxRate = 0;
+var token = 'e817bb0705dd58da8db074c69f729fd8';
+var upToTxt = 'Up to';
+var uploading_in_progress = 'Uploading in progress, please be patient.';
+var usingSecureMode = false;
+var wishlistProductsIds = false;
+</script>
+
+		<script type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/jquery.easing.js"></script>
+		<script type="text/javascript" src="js/tools.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/global.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/autoload/10-bootstrap.min.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/products-comparison.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/jquery.idTabs.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/jquery.scrollTo.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/jquery.serialScroll.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/product.js"></script>
+		<script type="text/javascript" src="modules/socialsharing/js/socialsharing.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/tools/treeManagement.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"></script>
+		<script type="text/javascript" src="js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js"></script>
+		<script type="text/javascript" src="modules/productcomments/js/jquery.rating.pack.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+		<script type="text/javascript" src="modules/productcomments/js/jquery.textareaCounter.plugin.js"></script>
+		<script type="text/javascript" src="themes/default-bootstrap/js/modules/productcomments/js/productcomments.js"></script>
+			<meta property="og:title" content="" />
+<meta property="og:type" content="product" />
+<meta property="og:site_name" content="" />
+<meta property="og:description" content="" />
+<meta property="og:email" content="" />
+<meta property="og:phone_number" content="" />
+<meta property="og:street-address" content="" />
+<meta property="og:locality" content="" />
+<meta property="og:country-name" content="" />
+<meta property="og:postal-code" content="" />
+<meta property="og:image" content="http://automationpractice.com/img/p/7/7-large_default.jpg" />
+
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="product" class="product product-2 product-blouse category-7 category-blouses hide-left-column hide-right-column lang_en">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+					<div class="banner">
+						<div class="container">
+							<div class="row">
+								<a href="index.php_id_product=2&amp;controller=product" title="">
+	<img class="img-responsive" src="modules/blockbanner/img/sale70.png" alt="" title="" width="1170" height="65" />
+</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="nav">
+						<div class="container">
+							<div class="row">
+								<nav><!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="index.php_controller=authentication&amp;back=my-account" rel="nofollow" title="Log in to your customer account">
+			Sign in
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block languages module -->
+<!-- /Block languages module -->
+<div id="contact-link">
+	<a href="index.php_controller=contact" title="Contact Us">Contact us</a>
+</div>
+	<span class="shop-phone">
+		<i class="icon-phone"></i>Call us now: <strong>0123-456-789</strong>
+	</span>
+</nav>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="container">
+							<div class="row">
+								<div id="header_logo">
+									<a href="index.php" title="My Store">
+										<img class="logo img-responsive" src="img/logo.jpg" alt="My Store" width="350" height="99"/>
+									</a>
+								</div>
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="http://automationpractice.com/index.php_controller=search" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Search" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="index.php_controller=order" title="View my shopping cart" rel="nofollow">
+			<b>Cart</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Product</span>
+			<span class="ajax_cart_product_txt_s unvisible">Products</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(empty)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							No products
+						</p>
+												<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost">
+																			Free shipping!
+																	</span>
+								<span>
+									Shipping
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">$0.00</span>
+								<span>Total</span>
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="index.php_controller=order" title="Check out" rel="nofollow">
+								<span>
+									Check out<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Close window"></span>
+				<h2>
+					<i class="icon-ok"></i>Product successfully added to your shopping cart
+				</h2>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantity</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<h2>
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						There are <span class="ajax_cart_quantity">0</span> items in your cart.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						There is 1 item in your cart.
+					</span>
+				</h2>
+
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total products
+											</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total shipping&nbsp;					</strong>
+					<span class="ajax_cart_shipping_cost">
+													Free shipping!
+											</span>
+				</div>
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total
+											</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container">
+					<span class="continue btn btn-default button exclusive-medium" title="Continue shopping">
+						<span>
+							<i class="icon-chevron-left left"></i>Continue shopping
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="index.php_controller=order" title="Proceed to checkout" rel="nofollow">
+						<span>
+							Proceed to checkout<i class="icon-chevron-right right"></i>
+						</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="crossseling"></div>
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Categories</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="index.php_id_category=3&amp;controller=category" title="Women">Women</a><ul><li><a href="index.php_id_category=4&amp;controller=category" title="Tops">Tops</a><ul><li><a href="index.php_id_category=5&amp;controller=category" title="T-shirts">T-shirts</a></li><li><a href="index.php_id_category=7&amp;controller=category" title="Blouses">Blouses</a></li></ul></li><li><a href="index.php_id_category=8&amp;controller=category" title="Dresses">Dresses</a><ul><li><a href="index.php_id_category=9&amp;controller=category" title="Casual Dresses">Casual Dresses</a></li><li><a href="index.php_id_category=10&amp;controller=category" title="Evening Dresses">Evening Dresses</a></li><li><a href="index.php_id_category=11&amp;controller=category" title="Summer Dresses">Summer Dresses</a></li></ul></li><li id="category-thumbnail"><div><img src="img/c/3-0_thumb.jpg" alt="Women" title="Women" class="imgm" /></div><div><img src="img/c/3-1_thumb.jpg" alt="Women" title="Women" class="imgm" /></div></li></ul></li><li><a href="index.php_id_category=8&amp;controller=category" title="Dresses">Dresses</a><ul><li><a href="index.php_id_category=9&amp;controller=category" title="Casual Dresses">Casual Dresses</a></li><li><a href="index.php_id_category=10&amp;controller=category" title="Evening Dresses">Evening Dresses</a></li><li><a href="index.php_id_category=11&amp;controller=category" title="Summer Dresses">Summer Dresses</a></li></ul></li><li><a href="index.php_id_category=5&amp;controller=category" title="T-shirts">T-shirts</a></li>
+					</ul>
+	</div>
+	<!--/ Menu -->
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+				<div id="columns" class="container">
+
+<!-- Breadcrumb -->
+<div class="breadcrumb clearfix">
+	<a class="home" href="index.php" title="Return to Home"><i class="icon-home"></i></a>
+			<span class="navigation-pipe" >&gt;</span>
+					<a href="index.php_id_category=3&amp;controller=category" title="Women">Women</a><span class="navigation-pipe">></span><a href="index.php_id_category=4&amp;controller=category" title="Tops">Tops</a><span class="navigation-pipe">></span><a href="index.php_id_category=7&amp;controller=category" title="Blouses">Blouses</a><span class="navigation-pipe">></span>Blouse
+			</div>
+<!-- /Breadcrumb -->
+										<div id="slider_row" class="row">
+						<div id="top_column" class="center_column col-xs-12 col-sm-12"></div>
+					</div>
+					<div class="row">
+																		<div id="center_column" class="center_column col-xs-12 col-sm-12">
+
+
+							<div itemscope itemtype="http://schema.org/Product">
+	<div class="primary_block row">
+					<div class="container">
+				<div class="top-hr"></div>
+			</div>
+								<!-- left infos-->
+		<div class="pb-left-column col-xs-12 col-sm-4 col-md-5">
+			<!-- product img-->
+			<div id="image-block" class="clearfix">
+																	<span id="view_full_size">
+													<img id="bigpic" itemprop="image" src="img/p/7/7-large_default.jpg" title="Blouse" alt="Blouse" width="458" height="458"/>
+															<span class="span_link no-print">View larger</span>
+																		</span>
+							</div> <!-- end image-block -->
+							<!-- thumbnails -->
+				<div id="views_block" class="clearfix ">
+											<span class="view_scroll_spacer">
+							<a id="view_scroll_left" class="" title="Other views" href="javascript:{}">
+								Previous
+							</a>
+						</span>
+										<div id="thumbs_list">
+						<ul id="thumbs_list_frame">
+																																																						<li id="thumbnail_5">
+									<a href="img/p/5/5-thickbox_default.jpg"	data-fancybox-group="other-views" class="fancybox" title="Blouse">
+										<img class="img-responsive" id="thumb_5" src="img/p/5/5-cart_default.jpg" alt="Blouse" title="Blouse" height="80" width="80" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_6">
+									<a href="img/p/6/6-thickbox_default.jpg"	data-fancybox-group="other-views" class="fancybox" title="Blouse">
+										<img class="img-responsive" id="thumb_6" src="img/p/6/6-cart_default.jpg" alt="Blouse" title="Blouse" height="80" width="80" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_7" class="last">
+									<a href="img/p/7/7-thickbox_default.jpg"	data-fancybox-group="other-views" class="fancybox shown" title="Blouse">
+										<img class="img-responsive" id="thumb_7" src="img/p/7/7-cart_default.jpg" alt="Blouse" title="Blouse" height="80" width="80" itemprop="image" />
+									</a>
+								</li>
+																			</ul>
+					</div> <!-- end thumbs_list -->
+											<a id="view_scroll_right" title="Other views" href="javascript:{}">
+							Next
+						</a>
+									</div> <!-- end views-block -->
+				<!-- end thumbnails -->
+										<p class="resetimg clear no-print">
+					<span id="wrapResetImages" style="display: none;">
+						<a href="index.php_id_product=2&amp;controller=product" name="resetImages">
+							<i class="icon-repeat"></i>
+							Display all pictures
+						</a>
+					</span>
+				</p>
+					</div> <!-- end pb-left-column -->
+		<!-- end left infos-->
+		<!-- center infos -->
+		<div class="pb-center-column col-xs-12 col-sm-4">
+						<h1 itemprop="name">Blouse</h1>
+			<p id="product_reference">
+				<label>Model </label>
+				<span class="editable" itemprop="sku"></span>
+			</p>
+						<p id="product_condition">
+				<label>Condition </label>
+									<link itemprop="itemCondition" href="http://schema.org/NewCondition"/>
+					<span class="editable">New</span>
+							</p>
+										<div id="short_description_block">
+											<div id="short_description_content" class="rte align_justify" itemprop="description"><p>Short sleeved blouse with feminine draped sleeve detail.</p></div>
+
+											<p class="buttons_bottom_block">
+							<a href="javascript:{}" class="button">
+								More details
+							</a>
+						</p>
+										<!---->
+				</div> <!-- end short_description_block -->
+										<!-- number of item in stock -->
+				<p id="pQuantityAvailable">
+					<span id="quantityAvailable">1136</span>
+					<span  style="display: none;" id="quantityAvailableTxt">Item</span>
+					<span  id="quantityAvailableTxtMultiple">Items</span>
+				</p>
+										<!-- availability -->
+				<p id="availability_statut">
+
+					<span id="availability_value">In stock</span>
+				</p>
+
+				<p class="warning_inline" id="last_quantities" style="display: none" >Warning: Last items in stock!</p>
+						<p id="availability_date" style="display: none;">
+				<span id="availability_date_label">Availability date:</span>
+				<span id="availability_date_value"></span>
+			</p>
+			<!-- Out of stock hook -->
+			<div id="oosHook" style="display: none;">
+
+			</div>
+				<p class="socialsharing_product list-inline no-print">
+					<button type="button" class="btn btn-default btn-twitter" onclick="socialsharing_twitter_click('Blouse http://automationpractice.com/index.php_id_product=2&controller=product');">
+				<i class="icon-twitter"></i> Tweet
+				<!-- <img src="http://automationpractice.com/modules/socialsharing/img/twitter.gif" alt="Tweet" /> -->
+			</button>
+							<button type="button" class="btn btn-default btn-facebook" onclick="socialsharing_facebook_click();">
+				<i class="icon-facebook"></i> Share
+				<!-- <img src="http://automationpractice.com/modules/socialsharing/img/facebook.gif" alt="Facebook Like" /> -->
+			</button>
+							<button type="button" class="btn btn-default btn-google-plus" onclick="socialsharing_google_click();">
+				<i class="icon-google-plus"></i> Google+
+				<!-- <img src="http://automationpractice.com/modules/socialsharing/img/google.gif" alt="Google Plus" /> -->
+			</button>
+										<button type="button" class="btn btn-default btn-pinterest" onclick="socialsharing_pinterest_click('http://automationpractice.com/img/p/7/7-thickbox_default.jpg');">
+				<i class="icon-pinterest"></i> Pinterest
+				<!-- <img src="http://automationpractice.com/modules/socialsharing/img/pinterest.gif" alt="Pinterest" /> -->
+			</button>
+			</p>
+
+<!--  /Module ProductComments -->
+							<!-- usefull links-->
+				<ul id="usefull_link_block" class="clearfix no-print">
+					<li class="sendtofriend">
+	<a id="send_friend_button" href="index.php_id_product=2&amp;controller=product#send_friend_form">
+		Send to a friend
+	</a>
+	<div style="display: none;">
+		<div id="send_friend_form">
+			<h2  class="page-subheading">
+				Send to a friend
+			</h2>
+			<div class="row">
+				<div class="product clearfix col-xs-12 col-sm-6">
+					<img src="img/p/7/7-home_default.jpg" height="250" width="250" alt="Blouse" />
+					<div class="product_desc">
+						<p class="product_name">
+							<strong>Blouse</strong>
+						</p>
+						<p>Short sleeved blouse with feminine draped sleeve detail.</p>
+					</div>
+				</div><!-- .product -->
+				<div class="send_friend_form_content col-xs-12 col-sm-6" id="send_friend_form_content">
+					<div id="send_friend_form_error"></div>
+					<div id="send_friend_form_success"></div>
+					<div class="form_container">
+						<p class="intro_form">
+							Recipient :
+						</p>
+						<p class="text">
+							<label for="friend_name">
+								Name of your friend <sup class="required">*</sup> :
+							</label>
+							<input id="friend_name" name="friend_name" type="text" value=""/>
+						</p>
+						<p class="text">
+							<label for="friend_email">
+								E-mail address of your friend <sup class="required">*</sup> :
+							</label>
+							<input id="friend_email" name="friend_email" type="text" value=""/>
+						</p>
+						<p class="txt_required">
+							<sup class="required">*</sup> Required fields
+						</p>
+					</div>
+					<p class="submit">
+						<button id="sendEmail" class="btn button button-small" name="sendEmail" type="submit">
+							<span>Send</span>
+						</button>&nbsp;
+						or&nbsp;
+						<a class="closefb" href="index.php_id_product=2&amp;controller=product#">
+							Cancel
+						</a>
+					</p>
+				</div> <!-- .send_friend_form_content -->
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+
+					<li class="print">
+						<a href="javascript:print();">
+							Print
+						</a>
+					</li>
+									</ul>
+					</div>
+		<!-- end center infos-->
+		<!-- pb-right-column-->
+		<div class="pb-right-column col-xs-12 col-sm-4 col-md-3">
+						<!-- add to cart form-->
+			<form id="buy_block" action="http://automationpractice.com/index.php_controller=cart" method="post">
+				<!-- hidden datas -->
+				<p class="hidden">
+					<input type="hidden" name="token" value="e817bb0705dd58da8db074c69f729fd8" />
+					<input type="hidden" name="id_product" value="2" id="product_page_product_id" />
+					<input type="hidden" name="add" value="1" />
+					<input type="hidden" name="id_product_attribute" id="idCombination" value="" />
+				</p>
+				<div class="box-info-product">
+					<div class="content_prices clearfix">
+													<!-- prices -->
+							<div class="price">
+								<p class="our_price_display" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+									<link itemprop="availability" href="http://schema.org/InStock"/>																			<span id="our_price_display" itemprop="price">$27.00</span>
+										<!---->
+										<meta itemprop="priceCurrency" content="USD" />
+
+																	</p>
+								<p id="reduction_percent"  style="display:none;">
+									<span id="reduction_percent_display">
+																			</span>
+								</p>
+								<p id="reduction_amount"  style="display:none">
+									<span id="reduction_amount_display">
+																		</span>
+								</p>
+								<p id="old_price" class="hidden">
+
+										<span id="old_price_display"></span>
+										<!--  -->
+																	</p>
+															</div> <!-- end prices -->
+
+
+						<div class="clear"></div>
+					</div> <!-- end content_prices -->
+					<div class="product_attributes clearfix">
+						<!-- quantity wanted -->
+												<p id="quantity_wanted_p">
+							<label>Quantity</label>
+							<input type="text" name="qty" id="quantity_wanted" class="text" value="1" />
+							<a href="index.php_id_product=2&amp;controller=product#" data-field-qty="qty" class="btn btn-default button-minus product_quantity_down">
+								<span><i class="icon-minus"></i></span>
+							</a>
+							<a href="index.php_id_product=2&amp;controller=product#" data-field-qty="qty" class="btn btn-default button-plus product_quantity_up">
+								<span><i class="icon-plus"></i></span>
+							</a>
+							<span class="clearfix"></span>
+						</p>
+												<!-- minimal quantity wanted -->
+						<p id="minimal_quantity_wanted_p" style="display: none;">
+							This product is not sold individually. You must select at least <b id="minimal_quantity_label">1</b> quantity for this product.
+						</p>
+													<!-- attributes -->
+							<div id="attributes">
+								<div class="clearfix"></div>
+																											<fieldset class="attribute_fieldset">
+											<label class="attribute_label" for="group_1">Size&nbsp;</label>
+																						<div class="attribute_list">
+																									<select name="group_1" id="group_1" class="form-control attribute_select no-print">
+																													<option value="1" selected="selected" title="S">S</option>
+																													<option value="2" title="M">M</option>
+																													<option value="3" title="L">L</option>
+																											</select>
+																							</div> <!-- end attribute_list -->
+										</fieldset>
+																																				<fieldset class="attribute_fieldset">
+											<label class="attribute_label" >Color&nbsp;</label>
+																						<div class="attribute_list">
+																									<ul id="color_to_pick_list" class="clearfix">
+																																																										<li>
+																<a href="index.php_id_product=2&amp;controller=product" id="color_8" name="White" class="color_pick" style="background:#ffffff;" title="White">
+																																	</a>
+															</li>
+																																																											<li class="selected">
+																<a href="index.php_id_product=2&amp;controller=product" id="color_11" name="Black" class="color_pick selected" style="background:#434A54;" title="Black">
+																																	</a>
+															</li>
+																																																																									</ul>
+													<input type="hidden" class="color_pick_hidden" name="group_3" value="11" />
+																							</div> <!-- end attribute_list -->
+										</fieldset>
+																								</div> <!-- end attributes -->
+											</div> <!-- end product_attributes -->
+					<div class="box-cart-bottom">
+						<div>
+							<p id="add_to_cart" class="buttons_bottom_block no-print">
+								<button type="submit" name="Submit" class="exclusive">
+									<span>Add to cart</span>
+								</button>
+							</p>
+						</div>
+
+<p class="buttons_bottom_block no-print">
+	<a id="wishlist_button" href="index.php_id_product=2&amp;controller=product#" onclick="WishlistCart('wishlist_block_list', 'add', '2', $('#idCombination').val(), document.getElementById('quantity_wanted').value); return false;" rel="nofollow"  title="Add to my wishlist">
+		Add to wishlist
+	</a>
+</p>
+<!-- Productpaymentlogos module -->
+<div id="product_payment_logos">
+	<div class="box-security">
+    <h5 class="product-heading-h5"></h5>
+  			<img src="modules/productpaymentlogos/img/payment-logo.png" alt="" class="img-responsive" />
+	    </div>
+</div>
+
+<!-- /Productpaymentlogos module -->
+<strong></strong>
+					</div> <!-- end box-cart-bottom -->
+				</div> <!-- end box-info-product -->
+			</form>
+					</div> <!-- end pb-right-column-->
+	</div> <!-- end primary_block -->
+						<!-- Data sheet -->
+			<section class="page-product-box">
+				<h3 class="page-product-heading">Data sheet</h3>
+				<table class="table-data-sheet">
+										<tr class="odd">
+												<td>Compositions</td>
+						<td>Cotton</td>
+											</tr>
+										<tr class="even">
+												<td>Styles</td>
+						<td>Casual</td>
+											</tr>
+										<tr class="odd">
+												<td>Properties</td>
+						<td>Short Sleeve</td>
+											</tr>
+									</table>
+			</section>
+			<!--end Data sheet -->
+							<!-- More info -->
+			<section class="page-product-box">
+				<h3 class="page-product-heading">More info</h3>									<!-- full description -->
+					<div  class="rte"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></div>
+			</section>
+			<!--end  More info -->
+				<!--HOOK_PRODUCT_TAB -->
+		<section class="page-product-box">
+
+<h3 id="#idTab5" class="idTabHrefShort page-product-heading">Reviews</h3>
+			<div id="idTab5">
+	<div id="product_comments_block_tab">
+								<p class="align_center">No customer comments for the moment.</p>
+						</div> <!-- #product_comments_block_tab -->
+</div>
+
+<!-- Fancybox -->
+<div style="display: none;">
+	<div id="new_comment_form">
+		<form id="id_new_comment_form" action="index.php_id_product=2&amp;controller=product#">
+			<h2 class="page-subheading">
+				Write a review
+			</h2>
+			<div class="row">
+									<div class="product clearfix  col-xs-12 col-sm-6">
+						<img src="img/p/7/7-medium_default.jpg" height="125" width="125" alt="Blouse" />
+						<div class="product_desc">
+							<p class="product_name">
+								<strong>Blouse</strong>
+							</p>
+							<p>Short sleeved blouse with feminine draped sleeve detail.</p>
+						</div>
+					</div>
+								<div class="new_comment_form_content col-xs-12 col-sm-6">
+					<h2>Write a review</h2>
+					<div id="new_comment_form_error" class="error" style="display: none; padding: 15px 25px">
+						<ul></ul>
+					</div>
+											<ul id="criterions_list">
+													<li>
+								<label>Quality:</label>
+								<div class="star_content">
+									<input class="star" type="radio" name="criterion[1]" value="1" />
+									<input class="star" type="radio" name="criterion[1]" value="2" />
+									<input class="star" type="radio" name="criterion[1]" value="3" checked="checked" />
+									<input class="star" type="radio" name="criterion[1]" value="4" />
+									<input class="star" type="radio" name="criterion[1]" value="5" />
+								</div>
+								<div class="clearfix"></div>
+							</li>
+												</ul>
+										<label for="comment_title">
+						Title: <sup class="required">*</sup>
+					</label>
+					<input id="comment_title" name="title" type="text" value=""/>
+					<label for="content">
+						Comment: <sup class="required">*</sup>
+					</label>
+					<textarea id="content" name="content"></textarea>
+										<div id="new_comment_form_footer">
+						<input id="id_product_comment_send" name="id_product" type="hidden" value='2' />
+						<p class="fl required"><sup>*</sup> Required fields</p>
+						<p class="fr">
+							<button id="submitNewMessage" name="submitMessage" type="submit" class="btn button button-small">
+								<span>Send</span>
+							</button>&nbsp;
+							or&nbsp;
+							<a class="closefb" href="index.php_id_product=2&amp;controller=product#">
+								Cancel
+							</a>
+						</p>
+						<div class="clearfix"></div>
+					</div> <!-- #new_comment_form_footer -->
+				</div>
+			</div>
+		</form><!-- /end new_comment_form_content -->
+	</div>
+</div>
+<!-- End fancybox -->
+
+		</section>
+		<!--end HOOK_PRODUCT_TAB -->
+						<!-- description & features -->
+													</div> <!-- itemscope product wrapper -->
+
+					</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+							<!-- Footer -->
+				<div class="footer-container">
+					<footer id="footer"  class="container">
+						<div class="row"><!-- Block Newsletter module-->
+<div id="newsletter_block_left" class="block">
+	<h4>Newsletter</h4>
+	<div class="block_content">
+		<form action="index.php" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="Enter your e-mail" />
+                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+                    <span>Ok</span>
+                </button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+		</form>
+	</div>
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block">
+	<ul>
+					<li class="facebook">
+				<a target="_blank" href="https://www.facebook.com/groups/525066904174158/">
+					<span>Facebook</span>
+				</a>
+			</li>
+							<li class="twitter">
+				<a target="_blank" href="https://twitter.com/seleniumfrmwrk">
+					<span>Twitter</span>
+				</a>
+			</li>
+				                	<li class="youtube">
+        		<a target="_blank"  href="https://www.youtube.com/channel/UCHl59sI3SRjQ-qPcTrgt0tA">
+        			<span>Youtube</span>
+        		</a>
+        	</li>
+                        	<li class="google-plus">
+        		<a  target="_blank" href="https://plus.google.com/111979135243110831526/posts">
+        			<span>Google Plus</span>
+        		</a>
+        	</li>
+                	</ul>
+    <h4>Follow us</h4>
+</section>
+<div class="clearfix"></div>
+<!-- Block categories module -->
+<section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
+	<h4>Categories</h4>
+	<div class="category_footer toggle-footer">
+		<div class="list">
+			<ul class="tree dhtml">
+
+<li class="last">
+	<a
+	href="index.php_id_category=3&amp;controller=category" title="You will find here all woman fashion collections.
+ This category includes all the basics of your wardrobe and much more:
+ shoes, accessories, printed t-shirts, feminine dresses, women&#039;s jeans!">
+		Women
+	</a>
+			<ul>
+
+<li >
+	<a
+	href="index.php_id_category=4&amp;controller=category" title="Choose from t-shirts, tops, blouses, short sleeves, long sleeves, tank tops, 3/4 sleeves and more.
+ Find the cut that suits you the best!">
+		Tops
+	</a>
+			<ul>
+
+<li >
+	<a
+	href="index.php_id_category=5&amp;controller=category" title="The must have of your wardrobe, take a look at our different colors,
+ shapes and style of our collection!">
+		T-shirts
+	</a>
+	</li>
+
+
+<li class="last">
+	<a
+	href="index.php_id_category=7&amp;controller=category" title="Match your favorites blouses with the right accessories for the perfect look.">
+		Blouses
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+
+<li class="last">
+	<a
+	href="index.php_id_category=8&amp;controller=category" title="Find your favorites dresses from our wide choice of evening, casual or summer dresses!
+ We offer dresses for every day, every style and every occasion.">
+		Dresses
+	</a>
+			<ul>
+
+<li >
+	<a
+	href="index.php_id_category=9&amp;controller=category" title="You are looking for a dress for every day? Take a look at
+ our selection of dresses to find one that suits you.">
+		Casual Dresses
+	</a>
+	</li>
+
+
+<li >
+	<a
+	href="index.php_id_category=10&amp;controller=category" title="Browse our different dresses to choose the perfect dress for an unforgettable evening!">
+		Evening Dresses
+	</a>
+	</li>
+
+
+<li class="last">
+	<a
+	href="index.php_id_category=11&amp;controller=category" title="Short dress, long dress, silk dress, printed dress, you will find the perfect dress for summer.">
+		Summer Dresses
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</li>
+
+
+										</ul>
+		</div>
+	</div> <!-- .category_footer -->
+</section>
+<!-- /Block categories module -->
+	<!-- MODULE Block footer -->
+	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
+		<h4>Information</h4>
+		<ul class="toggle-footer">
+							<li class="item">
+					<a href="index.php_controller=prices-drop" title="Specials">
+						Specials
+					</a>
+				</li>
+									<li class="item">
+				<a href="index.php_controller=new-products" title="New products">
+					New products
+				</a>
+			</li>
+										<li class="item">
+					<a href="index.php_controller=best-sales" title="Best sellers">
+						Best sellers
+					</a>
+				</li>
+										<li class="item">
+					<a href="index.php_controller=stores" title="Our stores">
+						Our stores
+					</a>
+				</li>
+									<li class="item">
+				<a href="index.php_controller=contact" title="Contact us">
+					Contact us
+				</a>
+			</li>
+															<li class="item">
+						<a href="index.php_id_cms=3&amp;controller=cms" title="Terms and conditions of use">
+							Terms and conditions of use
+						</a>
+					</li>
+																<li class="item">
+						<a href="index.php_id_cms=4&amp;controller=cms" title="About us">
+							About us
+						</a>
+					</li>
+													<li>
+				<a href="index.php_controller=sitemap" title="Sitemap">
+					Sitemap
+				</a>
+			</li>
+					</ul>
+
+	</section>
+		<section class="bottom-footer col-xs-12">
+		<div>
+			&copy; 2014 <a class="_blank" href="http://www.prestashop.com">Ecommerce software by PrestaShop™</a>
+		</div>
+	</section>
+		<!-- /MODULE Block footer -->
+<!-- Block myaccount module -->
+<section class="footer-block col-xs-12 col-sm-4">
+	<h4><a href="index.php_controller=authentication&amp;back=my-account" title="Manage my customer account" rel="nofollow">My account</a></h4>
+	<div class="block_content toggle-footer">
+		<ul class="bullet">
+			<li><a href="index.php_controller=authentication&amp;back=history" title="My orders" rel="nofollow">My orders</a></li>
+						<li><a href="index.php_controller=authentication&amp;back=order-slip" title="My credit slips" rel="nofollow">My credit slips</a></li>
+			<li><a href="index.php_controller=authentication&amp;back=addresses" title="My addresses" rel="nofollow">My addresses</a></li>
+			<li><a href="index.php_controller=authentication&amp;back=identity" title="Manage my personal information" rel="nofollow">My personal info</a></li>
+
+            		</ul>
+	</div>
+</section>
+<!-- /Block myaccount module -->
+<!-- MODULE Block contact infos -->
+<section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
+	<div>
+        <h4>Store information</h4>
+        <ul class="toggle-footer">
+                        	<li>
+            		<i class="icon-map-marker"></i>Selenium Framework, Research Triangle Park,
+North Carolina,
+USA            	</li>
+                                    	<li>
+            		<i class="icon-phone"></i>Call us now:
+            		<span>(347) 466-7432</span>
+            	</li>
+                                    	<li>
+            		<i class="icon-envelope-alt"></i>Email:
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%73%75%70%70%6f%72%74@%73%65%6c%65%6e%69%75%6d%66%72%61%6d%65%77%6f%72%6b.%63%6f%6d" >&#x73;&#x75;&#x70;&#x70;&#x6f;&#x72;&#x74;&#x40;&#x73;&#x65;&#x6c;&#x65;&#x6e;&#x69;&#x75;&#x6d;&#x66;&#x72;&#x61;&#x6d;&#x65;&#x77;&#x6f;&#x72;&#x6b;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            	</li>
+                    </ul>
+    </div>
+</section>
+<!-- /MODULE Block contact infos -->
+</div>
+					</footer>
+				</div><!-- #footer -->
+					</div><!-- #page -->
+</body></html>

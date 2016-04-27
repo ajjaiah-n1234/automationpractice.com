@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="10">
+	<listeners>
+		<listener class-name="com.testlink.ListenerClass" />
+		<listener class-name="com.reports.CustomReport"></listener>
+		<listener class-name="com.reports.ReportSupport"></listener>
+	</listeners>
+	
+	<test name="UI Functionality on Firefox on node 4">	
+		<parameter name="browser" value="firefox" />
+		<parameter name="platform" value="MAC" />
+		<parameter name="nodeURL" value="http://192.168.1.12:5566/wd/hub" />	
+		<parameter name="Username" value="praveenptw@gmail.com" />
+		<parameter name="Password" value="Iseva123" />
+		<classes>
+			<class name="com.testcases.TS_UIFunctionality" />			
+		</classes>
+	</test>
+
+	<test name="UI Functionality  on Chrome on node 4">
+		<parameter name="browser" value="chrome" />
+		<parameter name="platform" value="MAC" />
+		<parameter name="nodeURL" value="http://192.168.1.12:5566/wd/hub" />
+		<parameter name="Username" value="ptwmobility@gmail.com" />
+		<parameter name="Password" value="Iseva123" />
+		<classes>
+			<class name="com.testcases.TS_UIFunctionality" />
+		</classes>
+	</test>
+	
+	
+</suite>
